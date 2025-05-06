@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/d120e7d7-41e4-4ea7-b07d-ea9c11db2118/resourceGroups/01-apim/providers/Microsoft.ApiManagement/service/sm1th-v1/products/unlimited",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/d120e7d7-41e4-4ea7-b07d-ea9c11db2118/resourceGroups/01-apim/providers/Microsoft.ApiManagement/service/sm1th-v1/users/1",
+    "state": "active"
+  }
+}
