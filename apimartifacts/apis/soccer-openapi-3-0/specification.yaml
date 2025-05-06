@@ -10,7 +10,7 @@ info:
     url: https://www.apache.org/licenses/LICENSE-2.0.html
   version: '1.0'
 servers:
-  - url: https://sm1th-v2.azure-api.net/soccer
+  - url: https://sm1th-v1.azure-api.net/soccer
 paths:
   /pet:
     put:
@@ -411,9 +411,7 @@ paths:
             schema:
               type: string
               format: binary
-            examples:
-              default:
-                value: 
+            example: ''
       responses:
         '200':
           description: successful operation
